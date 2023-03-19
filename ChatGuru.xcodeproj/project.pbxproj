@@ -16,6 +16,13 @@
 		D711F39129C663A6007ACAF6 /* ChatGuruTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D711F39029C663A6007ACAF6 /* ChatGuruTests.swift */; };
 		D711F39B29C663A6007ACAF6 /* ChatGuruUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D711F39A29C663A6007ACAF6 /* ChatGuruUITests.swift */; };
 		D711F39D29C663A6007ACAF6 /* ChatGuruUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D711F39C29C663A6007ACAF6 /* ChatGuruUITestsLaunchTests.swift */; };
+		D711F3AE29C66437007ACAF6 /* ChatService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D711F3AD29C66437007ACAF6 /* ChatService.swift */; };
+		D711F3B129C6645E007ACAF6 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = D711F3B029C6645E007ACAF6 /* Alamofire */; };
+		D711F3B429C6646A007ACAF6 /* SwiftyJSON in Frameworks */ = {isa = PBXBuildFile; productRef = D711F3B329C6646A007ACAF6 /* SwiftyJSON */; };
+		D711F3B729C6659C007ACAF6 /* ChatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D711F3B629C6659C007ACAF6 /* ChatView.swift */; };
+		D711F3BA29C6675F007ACAF6 /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = D711F3B929C6675F007ACAF6 /* Kingfisher */; };
+		D71DA01129C66C620076B09F /* ChatMessageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D71DA01029C66C620076B09F /* ChatMessageView.swift */; };
+		D71DA01329C66ED90076B09F /* ChatInputView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D71DA01229C66ED90076B09F /* ChatInputView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +56,10 @@
 		D711F39629C663A6007ACAF6 /* ChatGuruUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChatGuruUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D711F39A29C663A6007ACAF6 /* ChatGuruUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatGuruUITests.swift; sourceTree = "<group>"; };
 		D711F39C29C663A6007ACAF6 /* ChatGuruUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatGuruUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D711F3AD29C66437007ACAF6 /* ChatService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatService.swift; sourceTree = "<group>"; };
+		D711F3B629C6659C007ACAF6 /* ChatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatView.swift; sourceTree = "<group>"; };
+		D71DA01029C66C620076B09F /* ChatMessageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatMessageView.swift; sourceTree = "<group>"; };
+		D71DA01229C66ED90076B09F /* ChatInputView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatInputView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +67,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D711F3BA29C6675F007ACAF6 /* Kingfisher in Frameworks */,
+				D711F3B429C6646A007ACAF6 /* SwiftyJSON in Frameworks */,
+				D711F3B129C6645E007ACAF6 /* Alamofire in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -99,6 +113,8 @@
 		D711F37829C663A5007ACAF6 /* ChatGuru */ = {
 			isa = PBXGroup;
 			children = (
+				D711F3B529C6658F007ACAF6 /* View */,
+				D711F3AC29C6642C007ACAF6 /* Service */,
 				D711F37929C663A5007ACAF6 /* ChatGuruApp.swift */,
 				D711F37B29C663A5007ACAF6 /* Persistence.swift */,
 				D711F38029C663A5007ACAF6 /* ContentView.swift */,
@@ -135,6 +151,24 @@
 			path = ChatGuruUITests;
 			sourceTree = "<group>";
 		};
+		D711F3AC29C6642C007ACAF6 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				D711F3AD29C66437007ACAF6 /* ChatService.swift */,
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		D711F3B529C6658F007ACAF6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				D711F3B629C6659C007ACAF6 /* ChatView.swift */,
+				D71DA01029C66C620076B09F /* ChatMessageView.swift */,
+				D71DA01229C66ED90076B09F /* ChatInputView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -151,6 +185,11 @@
 			dependencies = (
 			);
 			name = ChatGuru;
+			packageProductDependencies = (
+				D711F3B029C6645E007ACAF6 /* Alamofire */,
+				D711F3B329C6646A007ACAF6 /* SwiftyJSON */,
+				D711F3B929C6675F007ACAF6 /* Kingfisher */,
+			);
 			productName = ChatGuru;
 			productReference = D711F37629C663A5007ACAF6 /* ChatGuru.app */;
 			productType = "com.apple.product-type.application";
@@ -223,6 +262,11 @@
 				Base,
 			);
 			mainGroup = D711F36D29C663A5007ACAF6;
+			packageReferences = (
+				D711F3AF29C6645E007ACAF6 /* XCRemoteSwiftPackageReference "Alamofire" */,
+				D711F3B229C6646A007ACAF6 /* XCRemoteSwiftPackageReference "SwiftyJSON" */,
+				D711F3B829C6675F007ACAF6 /* XCRemoteSwiftPackageReference "Kingfisher" */,
+			);
 			productRefGroup = D711F37729C663A5007ACAF6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -265,10 +309,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D71DA01129C66C620076B09F /* ChatMessageView.swift in Sources */,
+				D71DA01329C66ED90076B09F /* ChatInputView.swift in Sources */,
 				D711F37A29C663A5007ACAF6 /* ChatGuruApp.swift in Sources */,
 				D711F37F29C663A5007ACAF6 /* ChatGuru.xcdatamodeld in Sources */,
 				D711F38129C663A5007ACAF6 /* ContentView.swift in Sources */,
+				D711F3B729C6659C007ACAF6 /* ChatView.swift in Sources */,
 				D711F37C29C663A5007ACAF6 /* Persistence.swift in Sources */,
+				D711F3AE29C66437007ACAF6 /* ChatService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -608,6 +656,51 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D711F3AF29C6645E007ACAF6 /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		D711F3B229C6646A007ACAF6 /* XCRemoteSwiftPackageReference "SwiftyJSON" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SwiftyJSON/SwiftyJSON";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		D711F3B829C6675F007ACAF6 /* XCRemoteSwiftPackageReference "Kingfisher" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/onevcat/Kingfisher";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 7.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		D711F3B029C6645E007ACAF6 /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D711F3AF29C6645E007ACAF6 /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = Alamofire;
+		};
+		D711F3B329C6646A007ACAF6 /* SwiftyJSON */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D711F3B229C6646A007ACAF6 /* XCRemoteSwiftPackageReference "SwiftyJSON" */;
+			productName = SwiftyJSON;
+		};
+		D711F3B929C6675F007ACAF6 /* Kingfisher */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D711F3B829C6675F007ACAF6 /* XCRemoteSwiftPackageReference "Kingfisher" */;
+			productName = Kingfisher;
+		};
+/* End XCSwiftPackageProductDependency section */
 
 /* Begin XCVersionGroup section */
 		D711F37D29C663A5007ACAF6 /* ChatGuru.xcdatamodeld */ = {
