@@ -1,0 +1,20 @@
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Alamofire/Source/Concurrency.swift":
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/Concurrency.d"
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/Concurrency.dia"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/Concurrency.o"
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/Concurrency.swiftdeps"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Alamofire/Source/Combine.swift":
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/Combine.dia"
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/Combine.d"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/Combine.o"
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/Combine.swiftdeps"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Alamofire/Source/CachedResponseHandler.swift":
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.dia"
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.d"
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.swiftdeps"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.o"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Alamofire/Source/DispatchQueue+Alamofire.swift":
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.dia"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.o"
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.swiftdeps"
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.d"

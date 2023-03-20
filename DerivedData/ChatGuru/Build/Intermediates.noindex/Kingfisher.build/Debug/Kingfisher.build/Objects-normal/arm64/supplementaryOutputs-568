@@ -1,0 +1,30 @@
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Kingfisher/Sources/Image/Image.swift":
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Image.swiftdeps"
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Image.dia"
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Image.d"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Image.o"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProgressive.swift":
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageProgressive.d"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageProgressive.o"
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageProgressive.swiftdeps"
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageProgressive.dia"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageDrawing.swift":
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDrawing.swiftdeps"
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDrawing.d"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDrawing.o"
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDrawing.dia"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Kingfisher/Sources/Image/GraphicsContext.swift":
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/GraphicsContext.dia"
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/GraphicsContext.swiftdeps"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/GraphicsContext.o"
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/GraphicsContext.d"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageFormat.swift":
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageFormat.o"
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageFormat.dia"
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageFormat.d"
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageFormat.swiftdeps"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProcessor.swift":
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageProcessor.swiftdeps"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageProcessor.o"
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageProcessor.dia"
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageProcessor.d"

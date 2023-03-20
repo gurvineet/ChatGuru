@@ -1,0 +1,20 @@
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Alamofire/Source/ParameterEncoder.swift":
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/ParameterEncoder.swiftdeps"
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/ParameterEncoder.d"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/ParameterEncoder.o"
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/ParameterEncoder.dia"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Alamofire/Source/ParameterEncoding.swift":
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/ParameterEncoding.d"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/ParameterEncoding.o"
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/ParameterEncoding.dia"
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/ParameterEncoding.swiftdeps"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Alamofire/Source/Protected.swift":
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/Protected.d"
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/Protected.swiftdeps"
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/Protected.dia"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/Protected.o"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Alamofire/Source/RedirectHandler.swift":
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/RedirectHandler.d"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/RedirectHandler.o"
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/RedirectHandler.swiftdeps"
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/RedirectHandler.dia"

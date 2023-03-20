@@ -1,0 +1,30 @@
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Kingfisher/Sources/Image/Placeholder.swift":
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Placeholder.o"
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Placeholder.d"
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Placeholder.dia"
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Placeholder.swiftdeps"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageTransition.swift":
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageTransition.d"
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageTransition.swiftdeps"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageTransition.o"
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageTransition.dia"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloaderDelegate.swift":
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDownloaderDelegate.dia"
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDownloaderDelegate.d"
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDownloaderDelegate.swiftdeps"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDownloaderDelegate.o"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDataProcessor.swift":
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDataProcessor.dia"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDataProcessor.o"
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDataProcessor.d"
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDataProcessor.swiftdeps"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloader.swift":
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDownloader.swiftdeps"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDownloader.o"
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDownloader.dia"
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDownloader.d"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Kingfisher/Sources/Networking/AuthenticationChallengeResponsable.swift":
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/AuthenticationChallengeResponsable.d"
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/AuthenticationChallengeResponsable.dia"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/AuthenticationChallengeResponsable.o"
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/AuthenticationChallengeResponsable.swiftdeps"

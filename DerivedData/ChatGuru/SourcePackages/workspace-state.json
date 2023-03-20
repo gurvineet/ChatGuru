@@ -1,0 +1,61 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "alamofire",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/Alamofire/Alamofire",
+          "name" : "Alamofire"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "master",
+            "revision" : "fd87f7ce7461197ea5af6e4a865168b8fc913ee0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "Alamofire"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "kingfisher",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/onevcat/Kingfisher",
+          "name" : "Kingfisher"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "af4be924ad984cf4d16f4ae4df424e79a443d435",
+            "version" : "7.6.2"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "Kingfisher"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swiftyjson",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/SwiftyJSON/SwiftyJSON",
+          "name" : "SwiftyJSON"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "master",
+            "revision" : "af1f7a2007d607fbe735c445f19080df4260fe8e"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "SwiftyJSON"
+      }
+    ]
+  },
+  "version" : 5
+}

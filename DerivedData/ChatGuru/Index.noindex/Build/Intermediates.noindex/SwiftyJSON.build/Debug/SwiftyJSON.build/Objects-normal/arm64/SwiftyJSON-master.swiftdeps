@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "b413b885e9883dfd27658407be2e3eda2815f1c3c8748e99fd007f806ca158c4"
+build_start_time: [1679285047, 551511049]
+build_end_time: [1679285047, 701952934]
+inputs:
+  ? "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift"
+  : [1679276943, 12823820]

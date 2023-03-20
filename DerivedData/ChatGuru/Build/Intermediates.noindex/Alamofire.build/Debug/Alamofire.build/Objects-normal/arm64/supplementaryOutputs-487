@@ -1,0 +1,20 @@
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Alamofire/Source/RequestCompression.swift":
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/RequestCompression.d"
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/RequestCompression.dia"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/RequestCompression.o"
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/RequestCompression.swiftdeps"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Alamofire/Source/Request.swift":
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/Request.swiftdeps"
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/Request.dia"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/Request.o"
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/Request.d"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Alamofire/Source/RequestTaskMap.swift":
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/RequestTaskMap.dia"
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/RequestTaskMap.swiftdeps"
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/RequestTaskMap.d"
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/RequestTaskMap.o"
+"/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/SourcePackages/checkouts/Alamofire/Source/RequestInterceptor.swift":
+  object: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/RequestInterceptor.o"
+  diagnostics: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/RequestInterceptor.dia"
+  dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/RequestInterceptor.d"
+  swift-dependencies: "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Alamofire.build/Debug/Alamofire.build/Objects-normal/arm64/RequestInterceptor.swiftdeps"

@@ -33,7 +33,6 @@
 		D7A8156829C82D0D003E5DF0 /* NotePersistenceService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A8156729C82D0D003E5DF0 /* NotePersistenceService.swift */; };
 		D7A8156A29C83023003E5DF0 /* ChatManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A8156929C83023003E5DF0 /* ChatManager.swift */; };
 		D7A8156C29C832F8003E5DF0 /* NoteManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A8156B29C832F8003E5DF0 /* NoteManager.swift */; };
-		D7A8156E29C83441003E5DF0 /* ChatPersistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A8156D29C83441003E5DF0 /* ChatPersistence.swift */; };
 		D7A8157229C8581D003E5DF0 /* Preview Content in Resources */ = {isa = PBXBuildFile; fileRef = D7A8157129C8581D003E5DF0 /* Preview Content */; };
 /* End PBXBuildFile section */
 
@@ -97,7 +96,6 @@
 		D7A8156729C82D0D003E5DF0 /* NotePersistenceService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotePersistenceService.swift; sourceTree = "<group>"; };
 		D7A8156929C83023003E5DF0 /* ChatManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatManager.swift; sourceTree = "<group>"; };
 		D7A8156B29C832F8003E5DF0 /* NoteManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteManager.swift; sourceTree = "<group>"; };
-		D7A8156D29C83441003E5DF0 /* ChatPersistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatPersistence.swift; sourceTree = "<group>"; };
 		D7A8157129C8581D003E5DF0 /* Preview Content */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Preview Content"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -246,7 +244,6 @@
 			children = (
 				D7A813E829C7CA6B003E5DF0 /* ChatMessage.swift */,
 				D7A8156929C83023003E5DF0 /* ChatManager.swift */,
-				D7A8156D29C83441003E5DF0 /* ChatPersistence.swift */,
 				D7A8153629C7FD6C003E5DF0 /* AIModels.swift */,
 			);
 			path = Chat;
@@ -410,7 +407,6 @@
 				D7A8156C29C832F8003E5DF0 /* NoteManager.swift in Sources */,
 				D7A8155729C81658003E5DF0 /* TaggedNote.swift in Sources */,
 				D7A8153729C7FD6C003E5DF0 /* AIModels.swift in Sources */,
-				D7A8156E29C83441003E5DF0 /* ChatPersistence.swift in Sources */,
 				D711F37A29C663A5007ACAF6 /* ChatGuruApp.swift in Sources */,
 				D7A8153C29C80E25003E5DF0 /* NoteEditView.swift in Sources */,
 				D7A8156829C82D0D003E5DF0 /* NotePersistenceService.swift in Sources */,

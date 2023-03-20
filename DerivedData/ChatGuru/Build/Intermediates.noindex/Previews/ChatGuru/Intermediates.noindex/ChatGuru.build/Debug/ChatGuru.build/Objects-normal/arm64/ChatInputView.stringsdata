@@ -1,0 +1,16 @@
+{
+  "source": "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/ChatGuru/View/ChatInputView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Message"
+      },
+      {
+        "comment": "",
+        "key": "Send"
+      }
+    ]
+  },
+  "version": 1
+}

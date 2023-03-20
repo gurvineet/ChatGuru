@@ -14,7 +14,7 @@ struct NoteView: View {
                 Spacer()
                 
                 Button("Edit") {
-                    // TODO: Implement editing note
+                    NoteEditView(noteManager: noteManager, note: note)
                 }
                 .padding(.horizontal)
             }

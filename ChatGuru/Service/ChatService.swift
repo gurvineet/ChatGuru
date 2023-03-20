@@ -39,12 +39,13 @@ class ChatService: ObservableObject {
                 if let choice = aiResponse.choices.first {
                     let chatMessage = ChatMessage(text: choice.text, timestamp: Date(), sender: Sender(id: "AI", name: "Murphy"), isMe: false)
                     self.messages.append(chatMessage)
-                    self.saveChatMessages()
+                    print(chatMessage)
                 }
             case .failure(let error):
                 print(error)
             }
         }
+        self.saveChatMessages()
     }
     
     private func saveChatMessages() {

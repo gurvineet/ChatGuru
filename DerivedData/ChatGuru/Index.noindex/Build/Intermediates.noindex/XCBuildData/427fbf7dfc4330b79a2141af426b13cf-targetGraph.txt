@@ -1,0 +1,53 @@
+Target dependency graph (28 targets)
+Kingfisher in Kingfisher, no dependencies
+Kingfisher in Kingfisher, depends on:
+Kingfisher in Kingfisher (explicit)
+SwiftyJSON in SwiftyJSON, no dependencies
+SwiftyJSON in SwiftyJSON, depends on:
+SwiftyJSON in SwiftyJSON (explicit)
+Alamofire in Alamofire, no dependencies
+Alamofire in Alamofire, depends on:
+Alamofire in Alamofire (explicit)
+ChatGuru in ChatGuru, depends on:
+Kingfisher in Kingfisher (explicit)
+SwiftyJSON in SwiftyJSON (explicit)
+Alamofire in Alamofire (explicit)
+Kingfisher in Kingfisher, no dependencies
+Kingfisher in Kingfisher, depends on:
+Kingfisher in Kingfisher (explicit)
+SwiftyJSON in SwiftyJSON, no dependencies
+SwiftyJSON in SwiftyJSON, depends on:
+SwiftyJSON in SwiftyJSON (explicit)
+Alamofire in Alamofire, no dependencies
+Alamofire in Alamofire, depends on:
+Alamofire in Alamofire (explicit)
+ChatGuru in ChatGuru, depends on:
+Kingfisher in Kingfisher (explicit)
+SwiftyJSON in SwiftyJSON (explicit)
+Alamofire in Alamofire (explicit)
+Kingfisher in Kingfisher, no dependencies
+Kingfisher in Kingfisher, depends on:
+Kingfisher in Kingfisher (explicit)
+SwiftyJSON in SwiftyJSON, no dependencies
+SwiftyJSON in SwiftyJSON, depends on:
+SwiftyJSON in SwiftyJSON (explicit)
+Alamofire in Alamofire, no dependencies
+Alamofire in Alamofire, depends on:
+Alamofire in Alamofire (explicit)
+ChatGuru in ChatGuru, depends on:
+Kingfisher in Kingfisher (explicit)
+SwiftyJSON in SwiftyJSON (explicit)
+Alamofire in Alamofire (explicit)
+Kingfisher in Kingfisher, no dependencies
+Kingfisher in Kingfisher, depends on:
+Kingfisher in Kingfisher (explicit)
+SwiftyJSON in SwiftyJSON, no dependencies
+SwiftyJSON in SwiftyJSON, depends on:
+SwiftyJSON in SwiftyJSON (explicit)
+Alamofire in Alamofire, no dependencies
+Alamofire in Alamofire, depends on:
+Alamofire in Alamofire (explicit)
+ChatGuru in ChatGuru, depends on:
+Kingfisher in Kingfisher (explicit)
+SwiftyJSON in SwiftyJSON (explicit)
+Alamofire in Alamofire (explicit)

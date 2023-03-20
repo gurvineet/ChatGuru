@@ -11,7 +11,6 @@ struct ChatView: View {
         VStack {
             // Show notes list
             if !noteManager.notes.isEmpty {
-                
             }
             NotesView(noteManager: noteManager)
 

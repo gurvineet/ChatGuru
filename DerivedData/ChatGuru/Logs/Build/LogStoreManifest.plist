@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>28CCD6DB-5131-442B-8EF2-C5B79F708870</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>28CCD6DB-5131-442B-8EF2-C5B79F708870.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChatGuru project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChatGuru</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ChatGuru</string>
+			<key>timeStartedRecording</key>
+			<real>700978936.41671002</real>
+			<key>timeStoppedRecording</key>
+			<real>700978936.99632895</real>
+			<key>title</key>
+			<string>Build ChatGuru</string>
+			<key>uniqueIdentifier</key>
+			<string>28CCD6DB-5131-442B-8EF2-C5B79F708870</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

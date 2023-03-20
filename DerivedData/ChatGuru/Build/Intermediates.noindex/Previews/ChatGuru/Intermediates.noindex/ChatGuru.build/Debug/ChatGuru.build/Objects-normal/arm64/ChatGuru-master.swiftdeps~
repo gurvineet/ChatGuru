@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "e583b3a74c195790812eef7d44a6bf6318505805d8d50337cdb4c4521fc7f46c"
+build_start_time: [1679285762, 148932933]
+build_end_time: [1679285762, 171177864]
+inputs:
+  "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/ChatGuru/ChatGuruApp.swift": !private [1679178028, 586856365]
+  "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/ChatGuru/ContentView.swift": !private [1679255946, 725748062]
+  "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/ChatGuru/Models/AIModels.swift": !private [1679279690, 602690219]
+  "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/ChatGuru/Models/ChatMessage.swift": !private [1679279737, 205322980]
+  "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/ChatGuru/Networking/ChatService.swift": !private [1679279583, 458626031]
+  "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/ChatGuru/View/ChatInputView.swift": !private [1679258874, 297954082]
+  "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/ChatGuru/View/ChatMessageView.swift": !private [1679279707, 108073711]
+  "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/ChatGuru/View/ChatView.swift": !private [1679284262, 990818738]
+  "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/ChatGuru/View/Integrations/NotesInputView.swift": !private [1679284262, 984716176]
+  "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/ChatGuru/View/Integrations/NotesListView.swift": !private [1679285016, 114197015]
+  ? "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Previews/ChatGuru/Intermediates.noindex/ChatGuru.build/Debug/ChatGuru.build/DerivedSources/CoreDataGenerated/ChatGuru/ChatGuru+CoreDataModel.swift"
+  : !private [1679285762, 114319801]
+  ? "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Previews/ChatGuru/Intermediates.noindex/ChatGuru.build/Debug/ChatGuru.build/DerivedSources/CoreDataGenerated/ChatGuru/Item+CoreDataClass.swift"
+  : !private [1679285762, 115855216]
+  ? "/Users/gurvineetdhillon/Desktop/Projects/ChatGuru/DerivedData/ChatGuru/Build/Intermediates.noindex/Previews/ChatGuru/Intermediates.noindex/ChatGuru.build/Debug/ChatGuru.build/DerivedSources/CoreDataGenerated/ChatGuru/Item+CoreDataProperties.swift"
+  : !private [1679285762, 116558551]
