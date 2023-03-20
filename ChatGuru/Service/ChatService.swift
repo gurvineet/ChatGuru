@@ -9,8 +9,11 @@ class ChatService: ObservableObject {
         "Authorization": "Bearer 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"
     ]
     
+    private let fileManager = FileManager.default
+    private let documentsDirectory = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask).first!
+    private let chatMessagesURL = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask).first!.appendingPathComponent("chatMessages.json")
+    
     func sendMessage(_ message: String) {
-        
         let origninalMessage = ChatMessage(text: message, timestamp: Date(), sender: Sender(id: "Me", name: "Gurvineet"), isMe: true)
         self.messages.append(origninalMessage)
         
@@ -34,59 +37,36 @@ class ChatService: ObservableObject {
             switch response.result {
             case .success(let aiResponse):
                 if let choice = aiResponse.choices.first {
-                    
                     let chatMessage = ChatMessage(text: choice.text, timestamp: Date(), sender: Sender(id: "AI", name: "Murphy"), isMe: false)
                     self.messages.append(chatMessage)
-//                    completion(.success(chatMessage))
-                } else {
-//                    completion(.failure(NSError(domain: "Response error", code: 0, userInfo: nil)))
+                    self.saveChatMessages()
                 }
             case .failure(let error):
                 print(error)
-                break
-//                completion(.failure(error))
             }
         }
     }
-}
-
-
-enum NetworkError: Error {
-    case invalidURL
-    case encodingFailed
-    case decodingFailed
-    case invalidData
-    case invalidResponse
-    case unknownError
-}
-
-struct AIRequest: Encodable {
-    let prompt: String
-    let temperature: Double
-    let maxTokens: Int
-    let apiKey: String
-    let promptPrefix: String
     
-    enum CodingKeys: String, CodingKey {
-        case prompt
-        case temperature
-        case maxTokens = "max_tokens"
-        case apiKey = "api_key"
-        case promptPrefix = "prompt_prefix"
+    private func saveChatMessages() {
+        let chatMessages = messages.map { ChatMessageCodable(chatMessage: $0) }
+        do {
+            let jsonEncoder = JSONEncoder()
+            let jsonData = try jsonEncoder.encode(chatMessages)
+            try jsonData.write(to: chatMessagesURL)
+        } catch {
+            print("Error saving chat messages: \(error.localizedDescription)")
+        }
+    }
+    
+    private func loadChatMessages() -> [ChatMessage] {
+        do {
+            let jsonDecoder = JSONDecoder()
+            let jsonData = try Data(contentsOf: chatMessagesURL)
+            let chatMessages = try jsonDecoder.decode([ChatMessageCodable].self, from: jsonData)
+            return chatMessages.map { $0.toChatMessage() }
+        } catch {
+            print("Error loading chat messages: \(error.localizedDescription)")
+            return []
+        }
     }
 }
-
-struct AIResponse: Decodable {
-    let choices: [AIChoice]
-}
-
-struct AIChoice: Decodable {
-    let text: String
-}
-
-struct Sender: Codable {
-    let id: String
-    let name: String
-}
-
-       
