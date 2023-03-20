@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		D711F37A29C663A5007ACAF6 /* ChatGuruApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D711F37929C663A5007ACAF6 /* ChatGuruApp.swift */; };
-		D711F37C29C663A5007ACAF6 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D711F37B29C663A5007ACAF6 /* Persistence.swift */; };
 		D711F37F29C663A5007ACAF6 /* ChatGuru.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D711F37D29C663A5007ACAF6 /* ChatGuru.xcdatamodeld */; };
 		D711F38129C663A5007ACAF6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D711F38029C663A5007ACAF6 /* ContentView.swift */; };
 		D711F38329C663A6007ACAF6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D711F38229C663A6007ACAF6 /* Assets.xcassets */; };
@@ -46,7 +45,6 @@
 /* Begin PBXFileReference section */
 		D711F37629C663A5007ACAF6 /* ChatGuru.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChatGuru.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D711F37929C663A5007ACAF6 /* ChatGuruApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatGuruApp.swift; sourceTree = "<group>"; };
-		D711F37B29C663A5007ACAF6 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		D711F37E29C663A5007ACAF6 /* ChatGuru.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ChatGuru.xcdatamodel; sourceTree = "<group>"; };
 		D711F38029C663A5007ACAF6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D711F38229C663A6007ACAF6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -119,7 +117,6 @@
 				D711F3B529C6658F007ACAF6 /* View */,
 				D711F3AC29C6642C007ACAF6 /* Service */,
 				D711F37929C663A5007ACAF6 /* ChatGuruApp.swift */,
-				D711F37B29C663A5007ACAF6 /* Persistence.swift */,
 				D711F38029C663A5007ACAF6 /* ContentView.swift */,
 				D711F38229C663A6007ACAF6 /* Assets.xcassets */,
 				D711F38429C663A6007ACAF6 /* ChatGuru.entitlements */,
@@ -249,7 +246,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1400;
-				LastUpgradeCheck = 1400;
+				LastUpgradeCheck = 1420;
 				TargetAttributes = {
 					D711F37529C663A5007ACAF6 = {
 						CreatedOnToolsVersion = 14.0;
@@ -327,7 +324,6 @@
 				D711F37F29C663A5007ACAF6 /* ChatGuru.xcdatamodeld in Sources */,
 				D711F38129C663A5007ACAF6 /* ContentView.swift in Sources */,
 				D711F3B729C6659C007ACAF6 /* ChatView.swift in Sources */,
-				D711F37C29C663A5007ACAF6 /* Persistence.swift in Sources */,
 				D711F3AE29C66437007ACAF6 /* ChatService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -398,6 +394,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -456,6 +453,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -480,8 +478,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = ChatGuru/ChatGuru.entitlements;
+				CODE_SIGN_IDENTITY = "-";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"ChatGuru/Preview Content\"";
 				DEVELOPMENT_TEAM = 28LZFC3LNF;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -512,8 +513,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = ChatGuru/ChatGuru.entitlements;
+				CODE_SIGN_IDENTITY = "-";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"ChatGuru/Preview Content\"";
 				DEVELOPMENT_TEAM = 28LZFC3LNF;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -545,6 +549,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = 28LZFC3LNF;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
@@ -568,6 +573,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = 28LZFC3LNF;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
@@ -590,6 +596,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = 28LZFC3LNF;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
@@ -612,6 +619,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = 28LZFC3LNF;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
